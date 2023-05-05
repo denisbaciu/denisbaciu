@@ -12,10 +12,6 @@
 - 🌱 I’m currently learning Python and Apache Spark
   
 - 💬 Ask me about C#, JavaScript, SQL
-  
-- ⚡ Fun fact: no fun facts today.
-
-
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
