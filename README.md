@@ -4,9 +4,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=denisbaciu.denisbaciu)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/denisbaciu)
-
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
