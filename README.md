@@ -12,7 +12,5 @@
 - 🌱 I’m currently learning Python and Apache Spark
   
 - 💬 Ask me about C#, JavaScript, SQL
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 <br>
