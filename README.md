@@ -10,7 +10,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
   
-- 🌱 I’m currently learning Python and Apache Spark
+- 🌱 I’m currently learning Python and GitLab
   
 - 💬 Ask me about C#, JavaScript, SQL
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
