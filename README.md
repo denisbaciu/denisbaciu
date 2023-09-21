@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Python and GitLab
 
 - 💬 Ask me about C#, JavaScript, SQL, ML and AI
-- 
 
 <br>
 
