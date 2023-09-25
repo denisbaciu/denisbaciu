@@ -10,8 +10,6 @@
 
 - 💬 Ask me about C#, JavaScript, SQL, ML and AI
 
-
-
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
