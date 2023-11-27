@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Python and GitLab
 
 - 💬 Ask me about C#, JavaScript, SQL, ML and AI
-<br>
+<br>	
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
