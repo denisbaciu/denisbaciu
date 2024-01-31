@@ -3,7 +3,6 @@
 <p align='center'>
   
 </p>
-
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
   
 </div>
@@ -17,4 +16,5 @@
 <br>	
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 <br>
