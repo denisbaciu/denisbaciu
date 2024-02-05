@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning Python
 
 - 💬 Ask me about C#, JavaScript, SQL, ML and AI
+
   
 <br>	
 
